@@ -45,7 +45,7 @@ function emailSend(){
     Username : "moyisikhomo@gmail.com",
     Password : "80410B1134868EC9F44D7C6E0DF745A2685B",
     To : `${emails}`,
-    From : "weberna24@gmail.com",
+    From : "theflowerca@gmail.com",
     Subject : "This is the subject",
     Body : "And this is the body"
 }).then(
